@@ -1,0 +1,33 @@
+{
+  "name": "project-watiti",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "firebase": "^9.9.2",
+    "firebase-admin": "^11.0.1",
+    "firebase-functions": "^3.23.0",
+    "latest-version": "^7.0.0",
+    "next": "12.2.5",
+    "react": "18.2.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "react-spinners": "^0.13.4",
+    "react-to-print": "^2.14.7"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "eslint": "8.21.0",
+    "eslint-config-next": "12.2.5",
+    "postcss": "^8.4.16",
+    "tailwind-scrollbar": "^2.1.0",
+    "tailwindcss": "^3.1.8"
+  }
+}
